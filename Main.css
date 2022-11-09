@@ -1,0 +1,79 @@
+body{
+  padding: 0px;
+  margin: 0px;
+}
+.actionbar {
+  display: flex;
+  height: 60px;
+  align-items: stretch;
+  margin: 7px;
+}
+#profilepic{
+  height: 60px;
+  width: 60px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+#ti{
+  padding-bottom: 15px;
+  height: 50px;
+  text-align: center;
+  width: 100%;
+}
+.pic{
+  height: 60px;
+  width: 60px;;
+}
+.title{
+  text-align: center;
+  height: 60px;
+  width: 100%;
+}
+.fa-instagram{
+  display: block;
+  margin: auto;
+  height: 100%;
+  width: 100%;
+  color: red;
+  padding: 1px;
+  align-self: center;
+}
+.instadiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.same{
+  display: flex;
+  align-items: center;
+  background-color: grey;
+  padding-left: 15px;
+  margin: 10px;
+  margin-left: 0px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+#count{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 7px;
+  height: 30px;
+  width: 30px;
+}
+#text1{
+  color: white;
+  margin-right: 5px;
+}
+.base{
+  display: flex;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+  background-color: grey;
+  height: 1000px;
+}
