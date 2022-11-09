@@ -1,0 +1,41 @@
+.actionbar {
+  display: flex;
+  height: 60px;
+  align-items: stretch;
+  background-color: orange;
+}
+#profilepic{
+  height: 60px;
+  width: 60px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+#ti{
+  padding-bottom: 15px;
+  height: 50px;
+  text-align: center;
+  width: 100%;
+}
+.pic{
+  height: 60px;
+  width: 60px;;
+  background-color: grey;
+}
+.title{
+  text-align: center;
+  height: 60px;
+  width: 100%;
+  background-color: green;
+}
+.fa-instagram{
+  height: 100%;
+  width: 100%;
+  color: red;
+}
+#instadiv{
+  display: flex;
+  height: 60px;
+  width: 60px;
+}
