@@ -49,7 +49,7 @@ body{
 .same{
   display: flex;
   align-items: center;
-  background-color: grey;
+  background-color: #5cbd85;
   padding-left: 15px;
   margin: 10px;
   border-top-left-radius: 15px;
@@ -71,9 +71,52 @@ body{
   margin-right: 5px;
 }
 .base{
-  display: flex;
   border-top-right-radius: 15px;
   border-top-left-radius: 15px;
-  background-color: grey;
+  background-color: #5cbd85;
   height: 1000px;
+  padding-top: 15px;
+}
+#description{
+  color: #8ee4af;
+  margin-left: 5px;
+}
+#insta{
+  font-size: 60px;
+}
+.list{
+  display: flex;
+  background-color: #8ee4af;
+  height: 100px;
+  width: 95%;
+  border-radius: 15px;
+  margin-bottom: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  
+}
+.list-img{
+  width: 70px;
+  height: 70px;
+  border-radius: 15px;
+}
+.list-img-div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  height: 80px;
+  border-radius: 15px;
+  background-color: #379583;
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-left: 10px;
+  margin-right:20px;
+  
+}
+.list-title{
+}
+.list-texts-div{
+  margin-top: auto;
+  margin-bottom: auto;
 }
