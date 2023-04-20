@@ -175,6 +175,7 @@ main {
   }
   .aranger {
     margin-top: 14svh;
+    margin-left: 1svw;
   }
   .welc {
     color: aliceblue;
@@ -191,4 +192,8 @@ main {
     color: aliceblue;
     font-size: 2rem;
   }
+  .logo{
+    margin-left: 1svw;
+  }
+  
 }
